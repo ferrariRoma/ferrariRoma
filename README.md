@@ -1,4 +1,4 @@
-### Study javascript to be front-developer
+### Studying javascript to become front-developer
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/ehdekdghkdwp)](https://blog.naver.com/ehdekdghkdwp)
 
@@ -17,6 +17,7 @@
 - javascript
 - scss
 
+<!-- what I did -->
 ### PJT
 - [x] momentum *in2021*
 - [ ] video of daeguFC *in2022*
