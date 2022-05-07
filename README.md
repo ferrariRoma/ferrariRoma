@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Study javascript to be front-developer
+### Study javascript to be front-developer
 
 [![wayneglik's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneglik&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
