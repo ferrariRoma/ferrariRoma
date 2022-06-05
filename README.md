@@ -23,6 +23,7 @@
 - [ ] Recap Full Stack pjt
 - [x] Enhance SCSS
 - [ ] Study Algorithm & Data Structure
+- [ ] Challenge Boot Camp
 - [ ] Study React
 
 ##### Plans for 2021
