@@ -17,10 +17,22 @@
 - javascript
 - scss
 
-<!-- what I did -->
-### PJT
-- [x] momentum *in2021*
-- [ ] video of daeguFC *in2022*
+<!-- Plan -->
+### Plans for 2022
+- [x] Do Full Stack pjt
+- [ ] Recap Full Stack pjt
+- [x] Enhance SCSS
+- [ ] Study Algorithm & Data Structure
+- [ ] Study React
+
+##### Plans for 2021
+- [x] Study '열혈 C 프로그래밍'
+- [x] Do pjt whatever
+- [x] Study HTML & CSS
+- [x] Do pjt about HTML & CSS
+- [x] Study JS
+- [x] Do pjt about JS
+- [ ] Read CS textbook
 
 
 
