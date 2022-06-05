@@ -2,7 +2,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/ehdekdghkdwp)](https://blog.naver.com/ehdekdghkdwp)
 
-[![wayneglik's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneglik&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![ferrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneglik&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
