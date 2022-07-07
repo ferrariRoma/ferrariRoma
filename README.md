@@ -14,8 +14,10 @@
 
 <!-- study now -->
 ### Now Study
-- javascript
-- scss
+- javascript _self_
+- ~~scss~~ pause
+- React _self & camp_
+- Redux _self & camp_
 
 <!-- Plan -->
 ### Plans for 2022
@@ -24,8 +26,8 @@
 - [x] Enhance SCSS
 - [ ] JS Deep Dive
 - [ ] Study Algorithm & Data Structure
-- [ ] Challenge Boot Camp
-- [ ] Study React
+- [x] Challenge Boot Camp
+- [x] Study React
 
 ##### Plans for 2021
 - [x] Study '열혈 C 프로그래밍'
