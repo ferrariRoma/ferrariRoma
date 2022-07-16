@@ -3,7 +3,7 @@
 Move from 
 [![Tech Blog Badge](http://img.shields.io/badge/-Naver%20blog-white?style=flat-square&logo=naver&link=https://blog.naver.com/ehdekdghkdwp)](https://blog.naver.com/ehdekdghkdwp)
 to
-[![Tech Blog Badge](http://img.shields.io/badge/-Velog%20blog-gray?style=flat-square&logo=velog&link=https://blog.naver.com/ehdekdghkdwp)](https://velog.io/@ferrari_roma)
+[![Tech Blog Badge](http://img.shields.io/badge/-Velog%20blog-gray?style=flat-square&logo=velog&link=https://velog.io/@ferrari_roma)](https://velog.io/@ferrari_roma)
 
 [![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
