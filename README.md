@@ -27,7 +27,7 @@ to
 - [x] Do Full Stack pjt
 - [ ] Recap Full Stack pjt
 - [x] Enhance SCSS
-- [ ] JS Deep Dive
+- [ ] JS6+ Deep Dive
 - [ ] Study Algorithm & Data Structure
 - [x] Challenge Boot Camp
 - [x] Study React
