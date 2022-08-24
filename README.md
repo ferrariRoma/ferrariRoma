@@ -1,5 +1,3 @@
-### Studying javascript to become front-developer
-
 Move from 
 [![Tech Blog Badge](http://img.shields.io/badge/-Naver%20blog-white?style=flat-square&logo=naver&link=https://blog.naver.com/ehdekdghkdwp)](https://blog.naver.com/ehdekdghkdwp)
 to
@@ -18,7 +16,7 @@ to
 <!-- study now -->
 ### Now Study
 - javascript _self_
-- ~~scss~~ pause
+- scss & styled-components _self & camp_
 - React _self & camp_
 - Redux _self & camp_
 
