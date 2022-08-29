@@ -5,10 +5,6 @@ to
 
 [![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
- <a href="https://github.com/ferrariRoma/github-stats">
- <img src="https://raw.githubusercontent.com/ferrariRoma/github-stats/output/generated/languages.svg" width=49.2% />
-</a>
-
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
