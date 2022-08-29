@@ -3,8 +3,7 @@ Move from
 to
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog%20blog-gray?style=flat-square&logo=velog&link=https://velog.io/@ferrari_roma)](https://velog.io/@ferrari_roma)
 
-<!-- [![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
-[![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma)](https://github.com/anuraghazra/github-readme-stats)
+[![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
