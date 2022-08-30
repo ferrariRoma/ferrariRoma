@@ -1,9 +1,11 @@
-Move from 
-[![Tech Blog Badge](http://img.shields.io/badge/-Naver%20blog-white?style=flat-square&logo=naver&link=https://blog.naver.com/ehdekdghkdwp)](https://blog.naver.com/ehdekdghkdwp)
-to
-[![Tech Blog Badge](http://img.shields.io/badge/-Velog%20blog-gray?style=flat-square&logo=velog&link=https://velog.io/@ferrari_roma)](https://velog.io/@ferrari_roma)
+[![Velog's GitHub stats](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ferrari_roma) 
 
 [![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=imhjnoh&theme=swift&show_icons=true&count_private=true&hide=stars&hide_border=true" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhjnoh&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
+</div>
 
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
