@@ -1,11 +1,10 @@
-### Tech Blog
+### Tech Blog 
 [![Velog's GitHub stats](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ferrari_roma) 
 
 [![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrariRoma&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferraiRoma&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
-</div>
+[![FerrariRoma's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrariRoma&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
