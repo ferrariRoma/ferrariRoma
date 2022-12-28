@@ -16,18 +16,26 @@
 
 <!-- study now -->
 ### Now Study
-- javascript _self_
-- scss & styled-components _self & camp_
-- React _self & camp_
-- Redux _self & camp_
+- NestJS with TypeORM and MySQL
+- ReactJS
+- TypeScript
 
 <!-- Plan -->
-### Plans for 2022
+### Plans for 2023
+- [ ] Finished Extreme Todo pjt
+- [ ] Deep Dive React
+- [ ] Study React Native
+- [ ] Do it high level pjt
+- [ ] Progress Algorithm & Data Structure
+- [ ] Study asynchronous process
+- [ ] Study CS50
+
+#### Plans for 2022
 - [x] Do Full Stack pjt
-- [ ] Recap Full Stack pjt
+- [ ] Recap Full Stack pjt _suspended due to bootcamp_
 - [x] Enhance SCSS
-- [ ] JS6+ Deep Dive
-- [ ] Study Algorithm & Data Structure
+- [x] JS6+ Deep Dive
+- [ ] Study Algorithm & Data Structure _need to more progress_
 - [x] Challenge Boot Camp
 - [x] Study React
 
@@ -39,7 +47,6 @@
 - [x] Study JS
 - [x] Do pjt about JS
 - [ ] Read CS textbook
-
 
 
 <!--
