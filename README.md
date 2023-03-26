@@ -16,15 +16,15 @@
 
 <!-- study now -->
 ### Now Study
-- NestJS with TypeORM and MySQL
 - ReactJS
-- TypeScript
+- React Native
 
 <!-- Plan -->
 ### Plans for 2023
 - [ ] Finished Extreme Todo pjt
 - [ ] Deep Dive React
 - [ ] Study React Native
+- [ ] Study Typescript
 - [ ] Do it high level pjt
 - [ ] Progress Algorithm & Data Structure
 - [ ] Study asynchronous process
