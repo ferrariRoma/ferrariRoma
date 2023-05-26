@@ -21,13 +21,13 @@
 
 <!-- Plan -->
 ### Plans for 2023
-- [ ] Finished Extreme Todo pjt
-- [ ] Deep Dive React
-- [ ] Study React Native
+- [ ] Finished Extreme Todo pjt -> WIP
+- [ ] Deep Dive React -> WIP
+- [ ] Study React Native -> WIP
 - [ ] Study Typescript
 - [ ] Do it high level pjt
-- [ ] Progress Algorithm & Data Structure
-- [ ] Study asynchronous process
+- [ ] Progress Algorithm & Data Structure -> WIP with leetcode
+- [ ] Reading a programming book completely -> WIP (컴퓨터 구조와 프로그래밍, 함수형 프로그래밍)
 - [ ] Study CS50
 
 #### Plans for 2022
