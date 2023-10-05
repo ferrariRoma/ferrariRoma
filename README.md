@@ -14,12 +14,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) 
 -->
 
+<!--
 <!-- study now -->
 ### Now Study
 - ReactJS
 - React Native
-
+-->
 <!-- Plan -->
+<!--
 ### Plans for 2023
 - [ ] Finished Extreme Todo pjt -> WIP
 - [ ] Deep Dive React -> WIP
@@ -27,9 +29,10 @@
 - [ ] Study Typescript
 - [ ] Do it high level pjt
 - [ ] Progress Algorithm & Data Structure -> WIP with leetcode
-- [ ] Reading a programming book completely -> WIP (컴퓨터 구조와 프로그래밍, 함수형 프로그래밍)
+- [x] Reading a programming book completely (~~컴퓨터 구조와 프로그래밍~~, 함수형 프로그래밍)
 - [ ] Study CS50
-
+-->
+<!--
 #### Plans for 2022
 - [x] Do Full Stack pjt
 - [ ] Recap Full Stack pjt _suspended due to bootcamp_
@@ -38,7 +41,8 @@
 - [ ] Study Algorithm & Data Structure _need to more progress_
 - [x] Challenge Boot Camp
 - [x] Study React
-
+-->
+<!--
 ##### Plans for 2021
 - [x] Study '열혈 C 프로그래밍'
 - [x] Do pjt whatever
@@ -47,7 +51,7 @@
 - [x] Study JS
 - [x] Do pjt about JS
 - [ ] Read CS textbook
-
+-->
 
 <!--
 **wayneglik/wayneglik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
